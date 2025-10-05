@@ -47,4 +47,3 @@ Le projet est en pause et a connu de nombreuses itérations.
 - **Optimisation et bas niveau** : Je privilégie les solutions efficaces et proches du matériel, même si cela demande plus de travail.
 - **Partage et collaboration** : Mes projets sont open source et j'aime partager mes idées avec les autres.
 
----
