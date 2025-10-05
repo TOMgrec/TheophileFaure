@@ -28,12 +28,17 @@ Ce projet me permet de tester mes différentes idées et de les mettre en pratiq
 ### 2. **Bibliothèque C pour le ML**
 Une bibliothèque minimaliste qui implémente en C les algorithmes de rétropropagation de gradient sur des réseaux de neurones.
 Je l'utilise principalemant pour mon projet d'IA en Othello.
-🔗 [Lien vers le projet](#) *(à créer)*
+Une version en C++ est en développement.
+🔗 [Lien vers le projet](https://github.com/TOMgrec/AIthello/tree/main/src/nl)
 
 ### 3. **Solveur de MasterMind**
 Un programme qui permet de générer la suite de coup optimale pour trouver un code MasterMind.
 Pour ce faire, le programme cherche à chaque coup à maximiser l'information de Shannon.
 🔗 [Lien vers le projet](https://github.com/TheophileFaure/Mastermind-Solver) et 🔗 [Lien vers la démo](#) *(à créer)*
+
+### 4. **SFUI**
+Une bibliothèque GUI pour la SFML. 
+Le projet est en pause et a connu de nombreuses itérations.
 
 ---
 
