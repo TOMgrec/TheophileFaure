@@ -4,7 +4,7 @@
 
 Je suis un développeur spécialisé en **C/C++** et **Python**, avec une forte appétence pour tout ce qui touche au bas niveau (assembleur, reverse engineering et optimisation). 
 Je me passionne aussi pour l'intelligence artificielle dans tous ses aspects (simple rétropropagation de gradient, algorithmes génétiques, agents IA sur Ollama, algorithmes minmax...).
-J'essaie notamment de l'appliquer pour la création d'IA pour jeux de sociétés.
+J'essaie notamment de l'appliquer à la création d'IA pour jeux de sociétés.
 Mon approche est guidée par la curiosité et le plaisir de tout comprendre et tout recoder moi-même.
 
 ---
