@@ -34,7 +34,7 @@ Une version en C++ est en développement.
 ### 3. **Solveur de MasterMind**
 Un programme qui permet de générer la suite de coup optimale pour trouver un code MasterMind.
 Pour ce faire, le programme cherche à chaque coup à maximiser l'information de Shannon.
-🔗 [Lien vers le projet](https://github.com/TheophileFaure/Mastermind-Solver) et 🔗 [Lien vers la démo](#) *(à créer)*
+🔗 [Lien vers le projet](https://github.com/TheophileFaure/Mastermind-Solver)
 
 ### 4. **SFUI**
 Une bibliothèque GUI pour la SFML. 
